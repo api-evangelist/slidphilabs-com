@@ -1,4 +1,4 @@
-# slidphilabs-com
+# Slid Phi Labs, Inc.
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-slidphilabs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://slidphilabs.com/
+Slid Phi Labs, Inc. provides a suite of AI‑driven agent tools that enable developers to embed verifiable, signed actions into applications. Their products include Agent‑Rider for intent delivery, Warrant for spend‑capped mandates, PERsiST for memory‑efficient task handling, Chamber for secure JSON sealing, CuNi for cross‑language consistency, PCC for lossless compression, TRUSTREAM for streaming logs, AwLPay for cross‑chain token verification, and TEACHAiD for curriculum‑driven teaching. The company emphasizes “proof before praise,” offering free accounts to explore each product. Based in Cherry Hill, New Jersey, Slid Phi Labs focuses on transparency, security, and reproducible results across its open‑source‑friendly platform.
+
+**Areas:** AI · Security · Transparency · Open-Source · Developer Tools
+
+## Slid Phi Labs, Inc. on APIs.io
+
+Everything profiled for Slid Phi Labs, Inc. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/slidphilabs-com/](https://apis.io/providers/slidphilabs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [Slid Phi Labs, Inc. Auth API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-auth-api/) — One lab account for every product
+- [Slid Phi Labs, Inc. Commerce API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-commerce-api/) — x402 catalog & suite jobs
+- [Slid Phi Labs, Inc. Compression API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-compression-api/) — Web codec demo API
+- [Slid Phi Labs, Inc. Discovery API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-discovery-api/) — Platform & agent discovery
+- [Slid Phi Labs, Inc. Home API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-home-api/) — Feel-at-home bootstrap
+- [Slid Phi Labs, Inc. MCP API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-mcp-api/) — Hosted Streamable HTTP Model Context Protocol server
+- [Slid Phi Labs, Inc. Olympiad API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-olympiad-api/) — Great Agentic Olympiad (tryouts · quarterly)
+- [Slid Phi Labs, Inc. Toys API](https://apis.io/apis/slidphilabs-com/slidphilabs-com-toys-api/) — Toy Store (fun · theory · artifacts)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Slid Phi Labs, Inc. Agentic Access](https://apis.io/agentic-access/slidphilabs-com/slidphilabs-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Slid Phi Labs, Inc. API Rules](https://apis.io/rules/slidphilabs-com/slidphilabs-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Slid Phi Labs, Inc. Authentication](https://apis.io/security/slidphilabs-com/slidphilabs-com-authentication/)
+- [Slid Phi Labs, Inc. Domain Security](https://apis.io/security/slidphilabs-com/slidphilabs-com-domain-security/)
+- [Slid Phi Labs, Inc. Vulnerability Disclosure](https://apis.io/security/slidphilabs-com/slidphilabs-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Slid Phi Labs, Inc. Plans Pricing](https://apis.io/plans/slidphilabs-com/slidphilabs-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://slidphilabs.com/)
+- [Documentation](https://www.slidphilabs.com/)
+- [Getting started](https://www.slidphilabs.com/signup)
+- [API reference](https://www.slidphilabs.com/)
+- [Pricing](https://www.slidphilabs.com/pricing)
+- [Sign up](https://www.slidphilabs.com/signup)
+- [Blog](https://www.slidphilabs.com/blog)
+- [Security](https://www.slidphilabs.com/humans)
+- [Terms of service](https://www.slidphilabs.com/terms)
+- [Privacy policy](https://www.slidphilabs.com/privacy)
+- [Status](https://www.slidphilabs.com/status)
+
+## API Evangelist rating
+
+**Kin Score 57.9** — strong · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 39.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 31.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/slidphilabs-com/](https://apis.io/providers/slidphilabs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Slid Phi Labs, Inc.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/slidphilabs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
